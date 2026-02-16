@@ -61,7 +61,7 @@ No trends or twitter api needed.
 
 ### Run Complete Pipeline
 ```bash
-./tweetfire
+./AutoX
 ```
 
 
