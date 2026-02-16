@@ -30,7 +30,7 @@ No trends or twitter api needed.
 
 1. **Clone and Navigate**:
    ```bash
-   cd TweetFire
+   cd AutoX
    ```
 
 2. **Install Dependencies**:
